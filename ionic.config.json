@@ -1,0 +1,7 @@
+{
+  "name": "ionic-svg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
